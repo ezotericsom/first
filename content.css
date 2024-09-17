@@ -1,0 +1,74 @@
+h1 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 50pt;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+ }
+ h2 {
+margin-left: 100px;
+margin-top: 70px;
+margin-bottom: -10px;
+font-size: 50pt;
+text-align: left;
+font-family: "Arial", Georgia, sans-serif;
+font-style: italic;
+line-height: 1.3em;
+font-weight: normal;
+}
+p {
+    font-size: 20pt;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.italic {
+font-family: "Arial", Georgia, sans-serif;
+font-style: italic;
+margin-bottom: -10px;
+}
+img {
+padding: 100px;
+margin-top: -100px;
+}
+.under {
+    margin-top: -100px;
+    font-family: "Arial", Georgia, sans-serif;
+    font-style: italic;
+    margin-bottom: -10px;
+    }
+.tab {
+    font-size: 30pt;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-style: italic;    
+}
+.cit {
+    font-size: 20pt;
+    margin-left: 500px;
+    margin-right: 100px;
+    font-style: italic;    
+}
+.sent {
+margin-top: -480px;
+}
+.podpis {
+    font-size: 20pt;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-bottom: -50px;
+    font-style: italic;
+}
+a:link {
+    color: rgb(0, 0, 0); 
+    background-color: transparent; 
+    text-decoration: underline;
+}
+ul {
+    font-size: 20pt;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
